@@ -146,7 +146,7 @@
 		}
 		function f_open()
 	    { 
-        $.ligerDialog.open({ target: $("#target1") });
+        $.ligerDialog.open({ target: $("#target1"),title:"审批" });
 
 	    }
 		//$("#approve").click

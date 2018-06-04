@@ -43,6 +43,8 @@
 	<script src="${base}/resource/controls/jQuery.Table2014/Table2014.js" ></script>
 	<!-- 日期插件 js -->
 	<script src="${base}/resource/controls/My97DatePicker/WdatePicker.js"></script>
+	<!-- 计时器 js -->
+	<script src="${base}/resource/controls/jQuery.countdown-master/jquery.countdown.js"></script>
 	<!-- ligerUI js -->
 	<script src="${base}/resource/controls/ligerUI/js/core/base.js" ></script> <!-- base js -->
 	<script src="${base}/resource/controls/ligerUI/js/plugins/ligerTree.js" ></script> <!-- 菜单树 -->
