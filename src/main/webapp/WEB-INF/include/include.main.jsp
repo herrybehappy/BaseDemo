@@ -37,6 +37,9 @@
 	<!-- kindeditor js -->
 	<script src="${base}/resource/controls/kindeditor/kindeditor-all-min.js" ></script>
 	<script src="${base}/resource/controls/kindeditor/lang/zh-CN.js" ></script>
+	<!-- echarts js -->
+	<script src="${base}/resource/controls/echarts/echarts.js" ></script>
+	<script src="${base}/resource/controls/echarts/theme.js" ></script>
 	<!-- $.cookie -->
 	<script src="${base}/resource/Scripts/jquery.cookie.min.js" ></script>
 	<!-- table2014 js -->

@@ -18,7 +18,7 @@
 </head>
 <body>
 	<div class="container-fluid">
-			<div class="col-md-12 column">
+			<div class="col-md-12">
 				<ul class="breadcrumb">
 					<li><a href="#">首页</a></li>
 					<li><a href="#">题库管理</a></li>
@@ -27,10 +27,10 @@
 				<div class="row-fluid ">
 					<form action="#" role="form">
 						<div class = "form-group">
-						<div class="col-md-2 column">
+						<div class="col-md-2 ">
 							<h4 class="text-center" style="padding-top:5%;">试题题干： </h4>
 						</div>
-						<div class="col-md-10 column">
+						<div class="col-md-10">
 							<textarea id="testContent" class="form-control" name="content"
 								style="width: 100%; height: 30%;">
 					&lt;strong&gt;请输入试题题干&lt;/strong&gt;
@@ -38,10 +38,10 @@
 						</div>
 						</div>
 						<div class = "form-group" style="margin-top:5%">
-						<div class="col-md-2 column" >
+						<div class="col-md-2" >
 							<h4 class="text-center" style="padding-top:10%;">试题选项： </h4>
 						</div>
-						<div class="col-md-10 column">
+						<div class="col-md-10">
 							<div class="input-group input-group-lg">
 								<span class="input-group-addon">选项A：</span> <input type="text"
 									class="form-control" placeholder="请输入选项 A" name="optionA"
@@ -69,10 +69,10 @@
 						</div>
 						</div>
 						<div class = "form-group">
-						<div class="col-md-2 column">
+						<div class="col-md-2 ">
 						<h4 class="text-center" style="padding-top:5%;">试题答案： </h4>
 						</div>
-						<div class="col-md-10 column">
+						<div class="col-md-10 ">
 							<select class="form-control">
 								<option value="A">A</option>
 								<option value="B">B</option>
@@ -82,7 +82,7 @@
 						</div>
 						</div>
 
-						<div class="col-md-4 col-md-offset-5 column">
+						<div class="col-md-4 col-md-offset-5">
 							<input type="submit" class="btn btn-default btn-success" value="提交">
 							<input type="button" class="btn btn-default btn-danger col-md-offset-2" value="返回"></button>
 						</div>
